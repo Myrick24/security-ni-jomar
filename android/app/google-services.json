@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "21542884585",
+    "project_id": "logindatabase-e0edb",
+    "storage_bucket": "logindatabase-e0edb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21542884585:android:c976aa1c6aa598b2464c78",
+        "android_client_info": {
+          "package_name": "com.example.login_database_v3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMDZiZbjgEJMcEz08pJfIkxCmoK-0SO_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21542884585:android:7360c3eb5b0e7395464c78",
+        "android_client_info": {
+          "package_name": "myrick.noel24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMDZiZbjgEJMcEz08pJfIkxCmoK-0SO_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
